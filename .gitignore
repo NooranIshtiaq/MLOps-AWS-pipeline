@@ -1,5 +1,8 @@
-venv/
-ml-venv/
-__pycache__/
-*.pyc
+# Environment files
 .env
+
+# PEM keys
+*.pem
+
+# Python cache
+__pycache__/

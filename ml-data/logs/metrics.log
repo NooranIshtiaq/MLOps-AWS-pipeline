@@ -1,0 +1,39 @@
+Model: RandomForest
+Accuracy: 0.85
+Timestamp: 2026-02-10 19:20:14
+
+LogisticRegression Accuracy: 0.81
+RandomForest Accuracy: 0.85
+Best Model: RandomForest
+Timestamp: 2026-02-10 19:25:57
+
+LogisticRegression Accuracy: 0.81
+RandomForest Accuracy: 0.85
+Best Model: RandomForest
+Timestamp: 2026-02-10 19:37:25
+
+LogisticRegression Accuracy: 0.81
+RandomForest Accuracy: 0.85
+Best Model: RandomForest
+Timestamp: 2026-02-12 18:48:06
+
+Model: RandomForest
+Accuracy: 0.8549643626719708
+Timestamp: 2026-02-12 19:04:41.802338
+------------------------------
+Model: RandomForest
+Accuracy: 0.8549643626719708
+Timestamp: 2026-02-12 21:04:19.352719
+------------------------------
+Model: RandomForest
+Accuracy: 0.8549643626719708
+Timestamp: 2026-02-12 21:13:57.157882
+------------------------------
+Model: RandomForest
+Accuracy: 0.8549643626719708
+Timestamp: 2026-02-12 21:23:33.062764
+------------------------------
+Model: RandomForest
+Accuracy: 0.8549643626719708
+Timestamp: 2026-02-12 21:27:47.925707
+------------------------------
